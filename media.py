@@ -1,3 +1,5 @@
+
+# Import required modules
 import webbrowser
 
 # My Movie Class
@@ -7,7 +9,6 @@ class Movie():
 	def __init__(self, movie_title, poster_image, trailer_youtube):
 			# Movie Title
 			self.title = movie_title
-			#self.storyline = movie_storyline
 			# Movie Poster
 			self.poster_image_url = poster_image
 			# Youtube trailer link
