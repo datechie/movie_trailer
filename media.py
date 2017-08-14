@@ -4,7 +4,8 @@ import webbrowser
 
 # My Movie Class
 class Movie():
-	#def __init__(self, movie_title, movie_storyline, poster_image, trailer_youtube):
+	''' This is the Movie class that requires 3 inputs - 
+	Movie Title, Movie Poster Image, Youtube trailer link '''
 	# Defining the constructor
 	def __init__(self, movie_title, poster_image, trailer_youtube):
 			# Movie Title

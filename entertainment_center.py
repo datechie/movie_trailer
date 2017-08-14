@@ -1,3 +1,4 @@
+# Import required modules
 import fresh_tomatoes # Provided script for generating the web page
 import media # My Movies class
 
