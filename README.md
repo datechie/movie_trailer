@@ -31,4 +31,4 @@ The repository has 3 source code files:
 
 ## Output
 
-The command run above should open a new webpage titled Fresh Tomatoes Movie Trailers and should display the posters of the movies. Clicking each poster will open the youtube trailer for that movie.
+The command run above should open a new webpage titled **Fresh Tomatoes Movie Trailers** and should display the posters of the movies. Clicking each poster will open the youtube trailer for that movie.
