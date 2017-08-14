@@ -1,10 +1,10 @@
 # Import required modules
-import fresh_tomatoes # Provided script for generating the web page
-import media # My Movies class
+import fresh_tomatoes  # Provided script for generating the web page
+import media  # My Movies class
 
 # Defining my movie objects
 # Defining a base URL to reduce the poster URL to meet PEP8 requirments
-wiki_base_url = "https://upload.wikimedia.org/wikipedia/en"
+wiki_base_url = "https://upload.wikimedia.org/wikipedia/en"  # noqa
 
 # Movie 1
 wonder_woman = media.Movie(
@@ -29,4 +29,3 @@ movies = [wonder_woman, the_matrix, sholay]
 
 # Generating the movie trailers web page
 fresh_tomatoes.open_movies_page(movies)
-

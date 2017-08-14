@@ -15,7 +15,7 @@ git clone https://github.com/datechie/movie_trailer.git
 The repository has 3 source code files:
 #### media.py
 * This file contains the Media class definition
-* This has 3 inputs - Movie Title, Movie Poster Image, Movie Trailer Youtub URL
+* This has 3 inputs - Movie Title, Movie Poster Image, Movie Trailer Youtube URL
 * This class has one method to show the youtube trailer - show_trailer
 
 #### fresh_tomatoes.py
